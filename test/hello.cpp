@@ -2,10 +2,11 @@
 
 using namespace std;
 
-int code =123;
-
-
 int main(){
+int code = 234;
+
+
+
 code = 1234;
 cout <<"Parveen Kumar" << endl;
 cout <<code << endl;
